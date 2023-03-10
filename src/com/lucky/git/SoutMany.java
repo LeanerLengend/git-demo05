@@ -5,4 +5,11 @@ package com.lucky.git;
  * @create 2023-03-10 13:57
  */
 public class SoutMany {
+
+
+    public static void main(String[] args) {
+        System.out.println("Hello World -- change");
+    }
+
+
 }
