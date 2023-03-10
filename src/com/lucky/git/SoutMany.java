@@ -1,0 +1,8 @@
+package com.lucky.git;
+
+/**
+ * @author ChenYXCoding
+ * @create 2023-03-10 13:57
+ */
+public class SoutMany {
+}
